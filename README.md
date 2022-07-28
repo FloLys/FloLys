@@ -6,9 +6,9 @@
 [<img align="right" src="https://img.shields.io/badge/Linkedin-aliceblue?&style=for-the-badge&logo=linkedin&logoColor=blue"/>](https://www.linkedin.com/in/florencialys/)
 
 
-<table>
+<table width=100%>
 <tr>
-   <td>
+   <td width=60%>
     
 ## 🌻 Skills
 
@@ -53,10 +53,10 @@
 ![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
 </td>
-    <td>
-  
-## 📄 Stats
 
+<td>
+
+## 📄 Stats
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FloLys&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
