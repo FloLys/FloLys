@@ -62,7 +62,7 @@
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FloLys&theme=monokai&show_icons=true&bg_color=transparent&text_color=black&hide_border=true" />
  <br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FloLys&theme=monokai-metallian&stroke=FFFFFF&hide_border=true&background=FFFFFF" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FloLys&theme=monokai-metallian&stroke=FFFFFF00&hide_border=true&background=FFFFFF00" />
  <br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloLys&theme=monokai&layout=compact&bg_color=transparent&text_color=black&hide_border=true&langs_count=3" />
 </p>
