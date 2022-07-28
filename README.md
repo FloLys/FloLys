@@ -31,12 +31,13 @@
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00?&style=flat&logo=vim&logoColor=white)&nbsp;
 
 #### Graphic Design
-![Illustrator](https://img.shields.io/badge/Illustrator-darkred?style=flat&logo=adobeillustrator&logoColor=orange)&nbsp;
+![Illustrator](https://img.shields.io/badge/Illustrator-maroon?style=flat&logo=adobeillustrator&logoColor=sandybrown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-midnightblue?style=flat&logo=adobephotoshop&logoColor=cornflowerblue)&nbsp;
-![Indesign](https://img.shields.io/badge/Indesign-maroon?style=flat&logo=adobeindesign&logoColor=fucsia)&nbsp;
-![AfterEffects](https://img.shields.io/badge/After_Effects-indigo?style=flat&logo=adobeaftereffects&logoColor=mediumpurple)&nbsp;
+![Indesign](https://img.shields.io/badge/Indesign-darkred?style=flat&logo=adobeindesign&logoColor=cherry)&nbsp;
+![AfterEffects](https://img.shields.io/badge/After_Effects-indigo?style=flat&logo=adobeaftereffects&logoColor=plum)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-ghostwhite?style=flat&logo=figma&logoColor=blue)&nbsp;
 ![Affinity](https://img.shields.io/badge/Affinity-gray?style=flat&logo=affinity&logoColor=dodgerblue)&nbsp;
+![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
 
 #### Database
 
