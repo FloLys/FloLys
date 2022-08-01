@@ -16,6 +16,7 @@
 
 ![C](https://img.shields.io/badge/C-dodgerblue?style=flat&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-steelblue?style=flat&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 #### Frontend Development
 
@@ -24,7 +25,7 @@
 
 #### Technologies and Tools
 
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Shell Script](https://img.shields.io/badge/GNU_Bash-232F3E?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)&nbsp;
@@ -45,7 +46,6 @@
 
 #### 🌱 In line to learn:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-232F3E?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
@@ -64,7 +64,7 @@
  <br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FloLys&theme=onedark_duo&stroke=FFFFFF00&hide_border=true&background=FFFFFF00" />
  <br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloLys&theme=onedark&layout=compact&bg_color=FFFFFF00&text_color=black&hide_border=true&langs_count=3" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloLys&theme=onedark&layout=compact&bg_color=FFFFFF00&text_color=black&hide_border=true&langs_count=4" />
 </p>
      
   </td>
