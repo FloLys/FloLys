@@ -16,7 +16,8 @@
 
 ![C](https://img.shields.io/badge/C-dodgerblue?style=flat&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-steelblue?style=flat&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=lightsalmon)&nbsp;
 
 #### Frontend Development
@@ -36,20 +37,20 @@
 
 #### 🌱 In line to learn:
 
-![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-232F3E?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-ghostwhite?style=flat&logo=react&logoColor=lightblue)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
 
 #### Technologies and Tools
 
+![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Bash-232F3E?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00?&style=flat&logo=vim&logoColor=white)&nbsp;
 </td>
 
