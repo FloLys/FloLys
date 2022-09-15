@@ -16,7 +16,6 @@
 
 ![C](https://img.shields.io/badge/C-dodgerblue?style=flat&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-steelblue?style=flat&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=lightsalmon)&nbsp;
 
