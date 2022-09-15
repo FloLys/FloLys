@@ -24,6 +24,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-ghostwhite?style=flat&logo=figma&logoColor=blue)&nbsp;
 
 #### Graphic Design
@@ -39,7 +40,6 @@
 
 ![React](https://img.shields.io/badge/React-232F3E?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-ghostwhite?style=flat&logo=react&logoColor=lightblue)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
