@@ -16,15 +16,17 @@
 
 ![C](https://img.shields.io/badge/C-dodgerblue?style=flat&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-steelblue?style=flat&logo=python&logoColor=ffdd54)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-%234ea94b?style=flat&logo=node.js&logoColor=ivory)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-sandybrown?style=flat&logo=mysql&logoColor=blue)&nbsp;
 
 #### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-gray?style=flat&logo=figma&logoColor=cherry)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
+![Ionic](https://img.shields.io/badge/Ionic-ghostwhite?style=flat&logo=ionic&logoColor=dodgerblue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-ghostwhite?style=flat&logo=figma&logoColor=blue)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-%234ea94b?style=flat&logo=node.js&logoColor=ivory)&nbsp;
 
 #### Graphic Design
 
@@ -34,14 +36,14 @@
 ![AfterEffects](https://img.shields.io/badge/After_Effects-indigo?style=flat&logo=adobeaftereffects&logoColor=plum)&nbsp;
 ![Affinity](https://img.shields.io/badge/Affinity-gray?style=flat&logo=affinity&logoColor=dodgerblue)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
+![Sketchup](https://img.shields.io/badge/SketchUp-white?style=flat&logo=sketchup&logoColor=red)&nbsp;
 
 #### 🌱 In line to learn:
 
-![React](https://img.shields.io/badge/React-232F3E?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-ghostwhite?style=flat&logo=react&logoColor=dodgerblue)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=lightblue)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-forestgreen?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
 
 #### Technologies and Tools
