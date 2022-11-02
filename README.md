@@ -12,12 +12,6 @@
     
 ## 🌻 Skills
 
-#### Programming Languages
-
-![C](https://img.shields.io/badge/C-dodgerblue?style=flat&logo=c&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-steelblue?style=flat&logo=python&logoColor=ffdd54)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-sandybrown?style=flat&logo=mysql&logoColor=blue)&nbsp;
-
 #### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -30,13 +24,19 @@
 
 #### Graphic Design
 
-![Illustrator](https://img.shields.io/badge/Illustrator-maroon?style=flat&logo=adobeillustrator&logoColor=sandybrown)&nbsp;
+![Illustrator](https://img.shields.io/badge/Illustrator-3B2F2F?style=flat&logo=adobeillustrator&logoColor=sandybrown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-midnightblue?style=flat&logo=adobephotoshop&logoColor=cornflowerblue)&nbsp;
 ![Indesign](https://img.shields.io/badge/Indesign-darkred?style=flat&logo=adobeindesign&logoColor=cherry)&nbsp;
 ![AfterEffects](https://img.shields.io/badge/After_Effects-indigo?style=flat&logo=adobeaftereffects&logoColor=plum)&nbsp;
 ![Affinity](https://img.shields.io/badge/Affinity-gray?style=flat&logo=affinity&logoColor=dodgerblue)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
 ![Sketchup](https://img.shields.io/badge/SketchUp-white?style=flat&logo=sketchup&logoColor=red)&nbsp;
+
+#### Backend Programming Languages
+
+![C](https://img.shields.io/badge/C-dodgerblue?style=flat&logo=c&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-steelblue?style=flat&logo=python&logoColor=ffdd54)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-FED8B1?style=flat&logo=mysql&logoColor=blue)&nbsp;
 
 #### 🌱 In line to learn:
 
@@ -48,13 +48,15 @@
 
 #### Technologies and Tools
 
+![Trello](https://img.shields.io/badge/Trello-blue?style=flat&logo=trello&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=black)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-ghostwhite?style=flat&logo=slack&logoColor=DC381F)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQuery-ghostwhite?style=flat&logo=jquery&logoColor=blue)&nbsp;
 ![Jinja](https://img.shields.io/badge/Jinja-linen?style=flat&logo=jinja&logoColor=red)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Bash-232F3E?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)&nbsp;
-![VIM](https://img.shields.io/badge/VIM-%2311AB00?&style=flat&logo=vim&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)&nbsp;
 </td>
 
