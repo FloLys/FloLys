@@ -12,7 +12,7 @@
     
 ## 🌻 Skills
 
-#### Frontend Development
+#### 🚀 Frontend Development
 
 ![React](https://img.shields.io/badge/React-ghostwhite?style=flat&logo=react&logoColor=dodgerblue)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-dodgerblue?style=flat&logo=typescript&logoColor=white)&nbsp;
@@ -24,7 +24,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-%234ea94b?style=flat&logo=node.js&logoColor=ivory)&nbsp;
 
-#### Graphic Design
+#### 🌈 Graphic Design
 
 ![Figma](https://img.shields.io/badge/Figma-232F3E?style=flat&logo=figma&logoColor=deeppink)&nbsp;
 ![XD](https://img.shields.io/badge/Adobe_Xd-purple?style=flat&logo=adobexd&logoColor=violet)&nbsp;
@@ -36,7 +36,7 @@
 ![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
 ![Sketchup](https://img.shields.io/badge/SketchUp-232F3E?style=flat&logo=sketchup&logoColor=red)&nbsp;
 
-#### Development Languages and Tools
+#### 🔨 Development Languages and Tools
 
 ![Docker](https://img.shields.io/badge/Docker-ghostwhite?style=flat&logo=docker&logoColor=dodgerblue)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-seashell?style=flat&logo=mysql&logoColor=blue)&nbsp;
@@ -53,7 +53,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
 ![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
 
-#### Technologies
+#### 💻 Technologies
 
 ![Jira](https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=blue)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-white?style=flat&logo=trello&logoColor=blue)&nbsp;
