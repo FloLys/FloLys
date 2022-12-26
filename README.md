@@ -14,50 +14,57 @@
 
 #### Frontend Development
 
+![React](https://img.shields.io/badge/React-ghostwhite?style=flat&logo=react&logoColor=dodgerblue)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-dodgerblue?style=flat&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Ionic](https://img.shields.io/badge/Ionic-ghostwhite?style=flat&logo=ionic&logoColor=dodgerblue)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-ghostwhite?style=flat&logo=androidstudio&logoColor=dodgerblue)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-gray?style=flat&logo=figma&logoColor=cherry)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-ghostwhite?style=flat&logo=ionic&logoColor=dodgerblue)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-%234ea94b?style=flat&logo=node.js&logoColor=ivory)&nbsp;
 
 #### Graphic Design
 
-![Illustrator](https://img.shields.io/badge/Illustrator-3B2F2F?style=flat&logo=adobeillustrator&logoColor=sandybrown)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-232F3E?style=flat&logo=figma&logoColor=deeppink)&nbsp;
+![XD](https://img.shields.io/badge/Adobe_Xd-purple?style=flat&logo=adobexd&logoColor=violet)&nbsp;
+![Illustrator](https://img.shields.io/badge/Illustrator-sienna?style=flat&logo=adobeillustrator&logoColor=sandybrown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-midnightblue?style=flat&logo=adobephotoshop&logoColor=cornflowerblue)&nbsp;
 ![Indesign](https://img.shields.io/badge/Indesign-darkred?style=flat&logo=adobeindesign&logoColor=cherry)&nbsp;
 ![AfterEffects](https://img.shields.io/badge/After_Effects-indigo?style=flat&logo=adobeaftereffects&logoColor=plum)&nbsp;
-![Affinity](https://img.shields.io/badge/Affinity-gray?style=flat&logo=affinity&logoColor=dodgerblue)&nbsp;
+![Affinity](https://img.shields.io/badge/Affinity-232F3E?style=flat&logo=affinity&logoColor=dodgerblue)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
-![Sketchup](https://img.shields.io/badge/SketchUp-white?style=flat&logo=sketchup&logoColor=red)&nbsp;
+![Sketchup](https://img.shields.io/badge/SketchUp-232F3E?style=flat&logo=sketchup&logoColor=red)&nbsp;
 
-#### Backend Programming Languages
+#### Development Languages and Tools
 
-![C](https://img.shields.io/badge/C-dodgerblue?style=flat&logo=c&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-steelblue?style=flat&logo=python&logoColor=ffdd54)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-FED8B1?style=flat&logo=mysql&logoColor=blue)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-ghostwhite?style=flat&logo=docker&logoColor=dodgerblue)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-seashell?style=flat&logo=mysql&logoColor=blue)&nbsp;
+![C](https://img.shields.io/badge/C-ghostwhite?style=flat&logo=c&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/Python-ghostwhite?style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
+![JQuery](https://img.shields.io/badge/JQuery-ghostwhite?style=flat&logo=jquery&logoColor=blue)&nbsp;
+![Jinja](https://img.shields.io/badge/Jinja-seashell?style=flat&logo=jinja&logoColor=red)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
 
 #### 🌱 In line to learn:
 
-![React](https://img.shields.io/badge/React-ghostwhite?style=flat&logo=react&logoColor=dodgerblue)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=lightblue)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
 ![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
 
-#### Technologies and Tools
+#### Technologies
 
-![Trello](https://img.shields.io/badge/Trello-blue?style=flat&logo=trello&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=blue)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-white?style=flat&logo=trello&logoColor=blue)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=black)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-ghostwhite?style=flat&logo=slack&logoColor=DC381F)&nbsp;
-![JQuery](https://img.shields.io/badge/JQuery-ghostwhite?style=flat&logo=jquery&logoColor=blue)&nbsp;
-![Jinja](https://img.shields.io/badge/Jinja-linen?style=flat&logo=jinja&logoColor=red)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
-![Shell Script](https://img.shields.io/badge/Bash-232F3E?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-white?style=flat&logo=slack&logoColor=DC381F)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=flat&logo=ubuntu&logoColor=red)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-white?style=flat&logo=gnu-bash&logoColor=black)&nbsp;
+![Apple](https://img.shields.io/badge/Apple-white?style=flat&logo=apple&logoColor=black)&nbsp;
+![Xcode](https://img.shields.io/badge/Xcode-white?style=flat&logo=xcode&logoColor=dodgerblue)&nbsp;
+![Hyper](https://img.shields.io/badge/Hyper-black?style=flat&logo=hyper&logoColor=magenta)&nbsp;
 </td>
 
 <td>
