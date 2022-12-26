@@ -36,7 +36,7 @@
 ![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
 ![Sketchup](https://img.shields.io/badge/SketchUp-232F3E?style=flat&logo=sketchup&logoColor=red)&nbsp;
 
-#### 🔨 Development Languages and Tools
+#### 💻 Development Languages & Technologies
 
 ![Docker](https://img.shields.io/badge/Docker-ghostwhite?style=flat&logo=docker&logoColor=dodgerblue)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-seashell?style=flat&logo=mysql&logoColor=blue)&nbsp;
@@ -53,7 +53,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
 ![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
 
-#### 💻 Technologies
+#### 🔨 Tools
 
 ![Jira](https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=blue)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-white?style=flat&logo=trello&logoColor=blue)&nbsp;
