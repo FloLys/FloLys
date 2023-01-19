@@ -14,15 +14,15 @@
 
 #### 🚀 Frontend Development
 
-![React](https://img.shields.io/badge/React-ghostwhite?style=flat&logo=react&logoColor=dodgerblue)&nbsp;
+![React Native](https://img.shields.io/badge/React-React_Native-deepskyblue?style=flat&logo=react&logoColor=deepskyblue)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-dodgerblue?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-ghostwhite?style=flat&logo=ionic&logoColor=dodgerblue)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-ghostwhite?style=flat&logo=androidstudio&logoColor=dodgerblue)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-%234ea94b?style=flat&logo=node.js&logoColor=ivory)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-%234ea94b?style=flat&logo=node.js&logoColor=ivory)&nbsp;
 
 #### 🌈 Graphic Design
 
@@ -46,11 +46,11 @@
 ![Jinja](https://img.shields.io/badge/Jinja-seashell?style=flat&logo=jinja&logoColor=red)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
 
-#### 🌱 In line to learn:
+#### 🌱 In line to learn
 
+![WordPress](https://img.shields.io/badge/WordPress-dodgerblue?style=flat&logo=wordpress&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=lightblue)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-orange?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
 ![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
 
 #### 🔨 Tools
@@ -64,7 +64,7 @@
 ![Bash](https://img.shields.io/badge/Bash-white?style=flat&logo=gnu-bash&logoColor=black)&nbsp;
 ![Apple](https://img.shields.io/badge/Apple-white?style=flat&logo=apple&logoColor=black)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-white?style=flat&logo=xcode&logoColor=dodgerblue)&nbsp;
-![Hyper](https://img.shields.io/badge/Hyper-black?style=flat&logo=hyper&logoColor=magenta)&nbsp;
+![Hyper](https://img.shields.io/badge/Hyper-white?style=flat&logo=hyper&logoColor=magenta)&nbsp;
 </td>
 
 <td>
