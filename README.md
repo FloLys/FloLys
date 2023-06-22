@@ -10,19 +10,34 @@
 <tr>
    <td width=55%>
     
-## 🌻 Skills
+## 📎 Skills
+
+#### 💻 Programming Languages
+
+![Typescript](https://img.shields.io/badge/Typescript-dodgerblue?style=flat&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
+![C](https://img.shields.io/badge/-white?style=flat&logo=c&logoColor=blue)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=gold)&nbsp;
+
+#### ⛩ Backend & API Development
+
+![Docker](https://img.shields.io/badge/Docker-dodgerblue?style=flat&logo=docker&logoColor=white)&nbsp;
+![Strapi](https://img.shields.io/badge/Strapi-mediumslateblue?style=flat&logo=strapi&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-lightseagreen?style=flat&logo=fastapi&logoColor=white)&nbsp;
+![Mongo](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
 #### 🚀 Frontend Development
 
 ![React Native](https://img.shields.io/badge/React-React_Native-deepskyblue?style=flat&logo=react&logoColor=deepskyblue)&nbsp;
-![Typescript](https://img.shields.io/badge/Typescript-dodgerblue?style=flat&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-ghostwhite?style=flat&logo=ionic&logoColor=dodgerblue)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-ghostwhite?style=flat&logo=androidstudio&logoColor=dodgerblue)&nbsp;
+![Ionic](https://img.shields.io/badge/Ionic-ghostwhite?style=flat&logo=ionic&logoColor=dodgerblue)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-%234ea94b?style=flat&logo=node.js&logoColor=ivory)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)&nbsp;
 
 #### 🌈 Graphic Design
 
@@ -36,35 +51,22 @@
 ![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
 ![Sketchup](https://img.shields.io/badge/SketchUp-232F3E?style=flat&logo=sketchup&logoColor=red)&nbsp;
 
-#### 💻 Development Languages & Technologies
-
-![Docker](https://img.shields.io/badge/Docker-ghostwhite?style=flat&logo=docker&logoColor=dodgerblue)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-seashell?style=flat&logo=mysql&logoColor=blue)&nbsp;
-![C](https://img.shields.io/badge/C-ghostwhite?style=flat&logo=c&logoColor=blue)&nbsp;
-![Python](https://img.shields.io/badge/Python-ghostwhite?style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
-![JQuery](https://img.shields.io/badge/JQuery-ghostwhite?style=flat&logo=jquery&logoColor=blue)&nbsp;
-![Jinja](https://img.shields.io/badge/Jinja-seashell?style=flat&logo=jinja&logoColor=red)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask&logoColor=black)&nbsp;
-
-#### 🌱 In line to learn
-
-![WordPress](https://img.shields.io/badge/WordPress-dodgerblue?style=flat&logo=wordpress&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=lightblue)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![django](https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=black)&nbsp;
-
-#### 🔨 Tools
+#### 🗓 Management Tools
 
 ![Jira](https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=blue)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-white?style=flat&logo=trello&logoColor=blue)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=black)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-white?style=flat&logo=slack&logoColor=DC381F)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=flat&logo=ubuntu&logoColor=red)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-white?style=flat&logo=gnu-bash&logoColor=black)&nbsp;
-![Apple](https://img.shields.io/badge/Apple-white?style=flat&logo=apple&logoColor=black)&nbsp;
-![Xcode](https://img.shields.io/badge/Xcode-white?style=flat&logo=xcode&logoColor=dodgerblue)&nbsp;
-![Hyper](https://img.shields.io/badge/Hyper-white?style=flat&logo=hyper&logoColor=magenta)&nbsp;
+![Bitbucket](https://img.shields.io/badge/Bitbucket-white?style=flat&logo=bitbucket&logoColor=blue)&nbsp;
+
+#### 🌱 In line to learn
+
+![Java](https://img.shields.io/badge/♨️Java-orangered?style=flat&logo=java&logoColor=lightblue)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-crimson?style=flat&logo=ruby&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=lightblue)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-dodgerblue?style=flat&logo=wordpress&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 </td>
 
 <td>
